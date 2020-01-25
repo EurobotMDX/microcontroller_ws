@@ -24,3 +24,15 @@ Publisher / Subcriber agent
 * 1 servo for pushing arm activating lighthouse and windsocks
 * 1 servo for hoisting the flag
 * 2 stepper motors for moving ganter up and down
+
+# Microcontrollers available
+* Arduino mega
+* Arduino nano
+* Teensy 4.0
+* direct pinout to Odroid 
+
+# Possible communication routes
+* SERIAL
+* I2C
+* UART
+* std.messages
