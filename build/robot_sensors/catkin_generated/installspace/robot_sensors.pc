@@ -1,0 +1,8 @@
+prefix=/home/ros/microcontroller_ws/install
+
+Name: robot_sensors
+Description: Description of robot_sensors
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

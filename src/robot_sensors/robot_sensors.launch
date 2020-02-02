@@ -1,0 +1,7 @@
+<launch>
+	<!-- Launch Sensor Manager -->
+	<node name="serial_com_data_handler" pkg="robot_sensors" type="main.py" output="screen">
+	<!-- <node name="serial_com_data_handler" pkg="robot_sensors" type="serial_com_data_handler.py" output="screen"> -->
+	</node>
+</launch>
+

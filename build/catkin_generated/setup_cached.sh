@@ -9,6 +9,7 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/ros/microcontroller_ws/devel:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/ros/microcontroller_ws/devel/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/ros/microcontroller_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/ros/microcontroller_ws/build"
 export PYTHONPATH="/home/ros/microcontroller_ws/devel/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/ros/microcontroller_ws/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
